@@ -1,4 +1,4 @@
-This work includes unsupervised approach for analyzing the electricity consumption patterns of the customers to evaluate the variations in their day-to-day behavior. It would help making informed decision on energy management initiatives.
+This work includes unsupervised approach for analyzing the electricity consumption patterns of the customers to evaluate the variations in their day-to-day behavior. It would help making informed decision on energy management initiatives. For clustering refer to my project: https://github.com/drrajeshahir/Informed-Decision-Making-for-DSM-and-NM-using-Smart-Meter-Data
 
 This work is published in Energy Journal, Elsevier: https://doi.org/10.1016/j.energy.2023.128939
 
